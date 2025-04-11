@@ -1,0 +1,9 @@
+#DataThief C:\Users\JavaB\Desktop\EcoData\Local repos\EAB_CT\Data\Extra\figure1.png Thursday 6-Apr-2023 2:46:41 PM
+1.9672, 1.9676
+4.5768, 2.9518
+8.6502, 3.98
+16.4631, 4.9653
+32.4062, 5.9743
+64.9346, 6.9649
+100.7151, 7.9564
+100.8859, 8.9619
